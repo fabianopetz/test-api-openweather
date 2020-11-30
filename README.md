@@ -1,6 +1,8 @@
 # test-api-openweather
 Teste Automatizado Back End da API OpenWeather, utilizando RestAssured com JAVA
 
+acessar a branch Master onde estaos os arquivos do projeto
+
 Ferramentas utilizadas no projeto
 
 baixar e configurar:
